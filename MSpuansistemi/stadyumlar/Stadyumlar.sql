@@ -1,0 +1,2 @@
+-- SELECT * FROM public.stadyumlar
+-- ORDER BY stadyum_id ASC LIMIT 100

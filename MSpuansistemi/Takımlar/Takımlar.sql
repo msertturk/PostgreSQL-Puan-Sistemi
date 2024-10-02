@@ -1,0 +1,2 @@
+-- SELECT * FROM public.takimlar
+-- ORDER BY takim_id ASC LIMIT 100
